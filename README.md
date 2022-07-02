@@ -1,7 +1,7 @@
-rap_sub_analysis
+RapSub
 ==============================
 
-Analyze rap subreddit data
+Use the Reddit API to explore data from rap artist subreddits.
 
 Project Organization
 ------------
@@ -54,4 +54,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</p>

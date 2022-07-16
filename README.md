@@ -12,20 +12,19 @@ Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README file
+    ├── README.md          <- Top-level README file
     ├── data
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── interim        <- Intermediate data that has been transformed
+    │   ├── processed      <- Final, canonical data sets for modeling
+    │   └── raw            <- Original, immutable data dump
     │
-    ├── docs               <- Any relevant documentation, project notes, and/or references.
+    ├── docs               <- Any relevant documentation, project notes, and/or references
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── notebooks          <- Jupyter notebooks for data exploration, mockups, and other smmall tasks.
+    ├── notebooks          <- Jupyter notebooks for data exploration, mockups, and other small tasks
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.

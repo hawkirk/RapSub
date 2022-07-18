@@ -11,7 +11,6 @@ r/AbSoul
 r/Alligatoah
 r/Amine
 r/AndersonPaak
-r/AriesofWunderworld
 r/asapferg
 r/asaprocky
 r/Atmosphere
@@ -33,7 +32,7 @@ r/ChanceTheRapper
 r/ChiefKeef
 r/CityMorgue
 r/chriswebby
-r/DaBaby
+r/newDaBaby
 r/DannyBrown
 r/Daylyt
 r/DeathGrips
@@ -107,7 +106,6 @@ r/lilgotit
 r/LilKeed
 r/LilNasX
 r/LilPeep
-r/lilpump
 r/LilSkies
 r/LilTjay
 r/liltracy
@@ -202,7 +200,6 @@ r/TravisScott
 r/trippieredd
 r/Thundercat
 r/Tupac
-r/tyga
 r/TylerTheCreator
 r/UGK
 r/unotheactivist
